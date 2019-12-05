@@ -1,0 +1,7 @@
+E:\CSharp-Fundamentals\FundamentalsExams\ProgrammingFundamentalsFinalExam-03August2019\Messages Manager\bin\Debug\Messages Manager.exe.config
+E:\CSharp-Fundamentals\FundamentalsExams\ProgrammingFundamentalsFinalExam-03August2019\Messages Manager\bin\Debug\Messages Manager.exe
+E:\CSharp-Fundamentals\FundamentalsExams\ProgrammingFundamentalsFinalExam-03August2019\Messages Manager\bin\Debug\Messages Manager.pdb
+E:\CSharp-Fundamentals\FundamentalsExams\ProgrammingFundamentalsFinalExam-03August2019\Messages Manager\obj\Debug\Messages Manager.csprojAssemblyReference.cache
+E:\CSharp-Fundamentals\FundamentalsExams\ProgrammingFundamentalsFinalExam-03August2019\Messages Manager\obj\Debug\Messages Manager.csproj.CoreCompileInputs.cache
+E:\CSharp-Fundamentals\FundamentalsExams\ProgrammingFundamentalsFinalExam-03August2019\Messages Manager\obj\Debug\Messages Manager.exe
+E:\CSharp-Fundamentals\FundamentalsExams\ProgrammingFundamentalsFinalExam-03August2019\Messages Manager\obj\Debug\Messages Manager.pdb
